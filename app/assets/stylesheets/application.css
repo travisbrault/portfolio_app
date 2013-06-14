@@ -1,3 +1,90 @@
+/* header */
+
+.header {
+	width: 1100px;
+	margin-left: 100px;
+	font-family: Helvetica;
+}
+
+.left_header {
+	width: 500px;
+	height: 40px;
+	float: left;
+}
+
+.right_header {
+	width: 460px;
+	height: 40px;
+	float: right;
+	padding-top: 25px;
+}
+
+.top_nav_bar {
+	list-style-type: none;
+	float: right;
+	margin-right: 140px;
+}
+
+.links {
+	display: inline;
+}
+
+/* footer */
+
+.bottom_nav_bar {
+	list-style-type: none;
+	float: left;
+	margin-left: 60px;
+	font-family: Helvetica;
+
+}
+
+/* home */
+
+.rainbow {
+	height:600px;
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-top: 30px;
+	margin-bottom: 20px;
+}
+
+.container {
+	width: 960px;
+	margin-left: 100px;
+}
+
+.left_box {
+	width: 500px;
+	height: 200px;
+	background-color: orange;
+	float: left;
+	font-size: 50px;
+	line-height: 20px;
+	text-align: center;
+	font-family: Helvetica;
+}
+
+.right_box {
+	width: 440px;
+	height: 200px;
+	background-color: blue;
+	float: right;
+	font-size: 50px;
+	line-height: 20px;
+	text-align: center;
+	color: white;
+	font-family: Helvetica;
+}
+
+
+
+
+
+
+
+
+
 /*
  * This is a manifest file that'll be compiled into application.css, which will include all the files
  * listed below.
